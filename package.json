@@ -1,0 +1,23 @@
+{
+  "name": "com.liteninja.cameraservices",
+  "version": "1.0.0",
+  "displayName": "LiteNinja Camera Services",
+  "description": "A collection of camera-related services for Unity3D",
+  "unity": "2022.1",
+  "documentationUrl": "https://github.com/sponticelli/LiteNinja-CameraServices/blob/main/README.md",
+  "changelogUrl": "https://github.com/sponticelli/LiteNinja-CameraServices/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/sponticelli/LiteNinja-CameraServices/blob/main/LICENSE.md",
+  "dependencies": {
+
+  },
+  "keywords": [
+    "Camera",
+    "Unity3D",
+    "Clean Code"
+  ],
+  "author": {
+    "name": "Sandro Ponticelli",
+    "email": "sandro.ponticelli@gmail.com",
+    "url": "https://github.com/sponticelli"
+  }
+}
